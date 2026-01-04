@@ -1,0 +1,501 @@
+EmployeeID,Employee_Name,Age,Gender,Location,Department,JobRole,DegreeEducation,HireDate,Experience,EmploymentType,Salary,PerformanceRating,Attrition,MaritalStatus,WorkMode,TrainingHours,OvertimeHoursPerMonth,ProjectsHandled,SatisfactionScore
+EMP0001,Caitlin Calderon,35,Male,Sydney,Finance,Software Engineer,Diploma,04-02-2022,2.4 yrs,Part-time,37483,2,No,Single,Hybrid,83,10,2,2
+EMP0002,Eric Chapman,37,Other,London,HR,Product Manager,Bachelors,20-01-2021,3.4 yrs,Part-time,139533,2,Yes,Married,Hybrid,59,27,9,2
+EMP0003,Daniel Gregory,55,Female,Mumbai,Finance,HR Manager,Bachelors,15-03-2020,5.3 yrs,Part-time,41580,4,No,Single,Remote,23,20,4,7
+EMP0004,Jennifer Cortez,52,Male,Sydney,Marketing,Operations Manager,Diploma,22-06-2018,6.2 yrs,Full-time,119623,2,No,Divorced,Hybrid,52,30,10,6
+EMP0005,Daniel Butler,57,Other,Berlin,HR,Marketing Executive,PhD,10-12-2021,4.5 yrs,Full-time,120558,2,Yes,Single,Hybrid,65,4,8,9
+EMP0006,Adam Shannon,55,Other,Toronto,Operations,Operations Manager,PhD,21-12-2015,9.5 yrs,Contract,37434,5,No,Divorced,Hybrid,51,17,1,6
+EMP0007,Robert Webb,37,Female,New York,Marketing,Sales Associate,Bachelors,11-04-2020,5.9 yrs,Part-time,30548,1,No,Divorced,Remote,35,9,8,7
+EMP0008,Sheila Ramos,40,Female,Sydney,Sales,Finance Analyst,Diploma,27-06-2017,8.9 yrs,Part-time,123569,4,Yes,Married,Hybrid,99,25,2,8
+EMP0009,Kara Delgado,52,Female,Toronto,Finance,HR Manager,PhD,14-03-2021,3.2 yrs,Full-time,74311,5,No,Single,Remote,15,13,7,2
+EMP0010,Eric Cooper,25,Male,Sydney,Sales,Finance Analyst,PhD,17-12-2015,9.9 yrs,Part-time,90375,5,Yes,Single,Hybrid,81,20,4,4
+EMP0011,Tiffany Eaton,47,Female,Sydney,Operations,Product Manager,Diploma,04-02-2024,1.7 yrs,Contract,60192,5,Yes,Divorced,Remote,37,1,7,10
+EMP0012,Jennifer Wheeler,32,Other,Sydney,Finance,IT Support,Diploma,14-08-2025,Fresher,Full-time,48568,5,Yes,Single,On-site,38,15,1,8
+EMP0013,Scott Cooper,57,Male,Tokyo,Finance,Data Analyst,Diploma,08-07-2016,9.2 yrs,Full-time,31008,5,No,Divorced,On-site,60,8,2,9
+EMP0014,Kim Grimes,47,Male,Toronto,Finance,Operations Manager,Diploma,03-06-2021,4.8 yrs,Full-time,44102,2,Yes,Single,On-site,96,13,10,5
+EMP0015,Joseph Palmer,32,Male,London,Sales,Data Analyst,Diploma,12-05-2022,3.1 yrs,Contract,102674,2,No,Single,Hybrid,64,27,5,6
+EMP0016,Bryan Hill,47,Female,Berlin,Marketing,Software Engineer,Bachelors,05-06-2025,Fresher,Part-time,135898,1,No,Married,Hybrid,60,26,4,8
+EMP0017,Jeffrey Ray,46,Other,Sydney,Marketing,Software Engineer,Diploma,11-04-2019,5.8 yrs,Part-time,134647,4,Yes,Single,Remote,33,27,9,9
+EMP0018,Thomas Gregory,35,Other,Sydney,Sales,Business Consultant,Masters,06-03-2023,1.5 yrs,Full-time,130622,5,No,Married,Remote,12,29,10,10
+EMP0019,Janet Welch,51,Female,Mumbai,Sales,Data Analyst,Masters,21-06-2016,9.7 yrs,Part-time,146301,4,No,Divorced,Hybrid,99,7,2,4
+EMP0020,Miss Hannah Kelly,23,Male,New York,Marketing,Finance Analyst,Masters,10-07-2020,4.9 yrs,Full-time,116860,1,Yes,Married,On-site,64,6,3,5
+EMP0021,George Reeves,54,Other,London,IT,HR Manager,Diploma,02-04-2019,5.1 yrs,Full-time,98699,2,No,Married,Remote,88,10,6,4
+EMP0022,Richard Andrews,46,Male,Sydney,Marketing,Sales Associate,Bachelors,06-11-2021,4.6 yrs,Part-time,102509,4,Yes,Divorced,On-site,39,6,9,8
+EMP0023,Luis Stewart,48,Female,Singapore,Operations,Operations Manager,Bachelors,15-09-2025,1.0 yrs,Part-time,35322,2,No,Married,On-site,73,22,1,8
+EMP0024,Regina Pope,40,Female,Mumbai,IT,Marketing Executive,Diploma,03-04-2024,Fresher,Full-time,47546,1,Yes,Married,Hybrid,31,5,7,10
+EMP0025,Jeffrey Smith,55,Other,New York,IT,Marketing Executive,Masters,28-10-2023,2.9 yrs,Part-time,136576,2,Yes,Single,Remote,97,10,3,4
+EMP0026,Monica Harper,39,Female,Singapore,IT,Operations Manager,PhD,07-06-2018,6.4 yrs,Contract,142992,3,Yes,Divorced,On-site,11,16,9,8
+EMP0027,Michelle Russell,25,Male,London,HR,Operations Manager,PhD,22-05-2020,4.5 yrs,Part-time,148902,5,Yes,Married,Hybrid,45,25,1,5
+EMP0028,Amanda Cooley,30,Male,Mumbai,IT,Business Consultant,Bachelors,29-06-2016,8.6 yrs,Contract,71998,3,No,Single,Remote,58,28,9,7
+EMP0029,Brandon Noble,52,Male,Sydney,IT,Data Analyst,Masters,09-05-2016,9.5 yrs,Part-time,57703,2,Yes,Divorced,Remote,49,9,8,5
+EMP0030,Gina Klein,24,Male,Berlin,HR,Finance Analyst,Diploma,06-09-2023,2.5 yrs,Contract,98994,1,No,Married,On-site,98,27,9,5
+EMP0031,Aaron Brock,35,Other,Sydney,Operations,Software Engineer,PhD,13-09-2025,Fresher,Contract,51265,4,Yes,Single,Remote,67,7,5,8
+EMP0032,Roger Palmer PhD,44,Other,Tokyo,HR,HR Manager,Masters,12-03-2018,6.7 yrs,Contract,98695,5,Yes,Single,Hybrid,84,1,1,2
+EMP0033,Katie Carlson,24,Male,New York,HR,Finance Analyst,Bachelors,03-06-2024,1.6 yrs,Full-time,86702,3,Yes,Single,On-site,25,13,8,6
+EMP0034,Peter Williams,39,Female,Singapore,Operations,Sales Associate,PhD,25-05-2023,1.2 yrs,Contract,51239,5,No,Divorced,On-site,69,11,6,9
+EMP0035,Cheryl Briggs,24,Female,Sydney,IT,HR Manager,Bachelors,18-07-2016,8.7 yrs,Full-time,40862,5,No,Single,Hybrid,88,9,4,2
+EMP0036,Marissa Duncan,34,Female,Tokyo,Operations,Software Engineer,Masters,06-09-2018,7.3 yrs,Contract,122391,2,No,Married,On-site,39,13,2,1
+EMP0037,Christine Stephens,58,Male,Berlin,Finance,Operations Manager,Diploma,28-06-2016,8.9 yrs,Part-time,93734,4,Yes,Divorced,On-site,60,4,2,7
+EMP0038,Danielle Perez,44,Female,Tokyo,Finance,Software Engineer,Masters,09-05-2017,8.6 yrs,Part-time,84547,2,No,Divorced,Hybrid,79,2,3,8
+EMP0039,George Knapp,49,Female,Toronto,Marketing,Finance Analyst,Bachelors,03-08-2023,1.1 yrs,Full-time,78691,4,No,Single,On-site,26,0,4,2
+EMP0040,Brooke Clay,28,Other,Sydney,Finance,IT Support,Diploma,04-08-2023,2.3 yrs,Contract,99082,5,No,Divorced,Remote,70,20,1,10
+EMP0041,Chelsea Anderson,26,Female,London,IT,Business Consultant,PhD,15-08-2018,6.8 yrs,Part-time,31538,3,No,Married,On-site,49,17,3,8
+EMP0042,Kimberly Johnson,58,Female,Mumbai,Operations,IT Support,Bachelors,26-07-2017,8.4 yrs,Contract,120958,5,No,Single,Hybrid,95,30,1,10
+EMP0043,Joseph Ramirez,39,Other,Tokyo,HR,Software Engineer,Masters,26-04-2017,8.0 yrs,Part-time,129208,1,Yes,Divorced,Hybrid,75,12,4,7
+EMP0044,Kenneth Mcdonald,52,Other,New York,HR,IT Support,Diploma,07-01-2018,7.1 yrs,Full-time,84611,2,Yes,Divorced,Hybrid,17,12,5,7
+EMP0045,Brandon Stewart,32,Other,Singapore,IT,Sales Associate,Bachelors,20-11-2018,7.9 yrs,Contract,48074,2,Yes,Single,On-site,81,2,4,10
+EMP0046,Karen Harris,46,Female,New York,Marketing,HR Manager,PhD,02-07-2020,5.7 yrs,Full-time,43258,2,Yes,Divorced,Hybrid,58,3,2,5
+EMP0047,David Lee,41,Male,New York,IT,Marketing Executive,Bachelors,06-02-2016,8.5 yrs,Contract,34234,1,No,Divorced,On-site,75,21,2,8
+EMP0048,Tina Henderson,38,Other,New York,IT,Business Consultant,PhD,01-10-2025,Fresher,Full-time,68133,5,Yes,Divorced,Remote,15,14,6,4
+EMP0049,Brandon Castro,50,Female,Mumbai,IT,Software Engineer,PhD,17-02-2025,Fresher,Part-time,60768,1,Yes,Single,Remote,47,21,2,1
+EMP0050,Brianna Howell,26,Male,Berlin,Sales,Data Analyst,PhD,08-05-2020,4.3 yrs,Part-time,74320,1,Yes,Married,Hybrid,17,19,8,7
+EMP0051,Michael Brown,42,Female,Mumbai,Sales,Software Engineer,PhD,21-11-2019,6.5 yrs,Contract,75664,5,Yes,Married,Hybrid,15,8,5,4
+EMP0052,Stephanie Herrera,44,Male,London,Operations,IT Support,Masters,31-01-2020,5.0 yrs,Contract,55511,4,Yes,Married,Hybrid,29,8,2,10
+EMP0053,Brandon Barrera,26,Female,London,Finance,Business Consultant,Masters,23-07-2023,2.1 yrs,Contract,148958,5,Yes,Divorced,On-site,96,29,5,8
+EMP0054,Maria Padilla,27,Other,Sydney,Marketing,Business Consultant,Diploma,17-02-2019,5.1 yrs,Part-time,33970,5,No,Single,Hybrid,72,18,9,10
+EMP0055,Maria Jacobs,39,Male,Toronto,Finance,Finance Analyst,PhD,11-04-2022,2.3 yrs,Full-time,56469,4,Yes,Divorced,Remote,85,29,5,6
+EMP0056,Evan Morrison,24,Other,Mumbai,Finance,HR Manager,PhD,26-12-2015,10.0 yrs,Full-time,95531,3,Yes,Single,Remote,11,24,5,10
+EMP0057,Bianca Olson,55,Female,Singapore,Marketing,Operations Manager,PhD,06-05-2019,6.5 yrs,Part-time,101575,2,Yes,Single,Remote,91,26,3,3
+EMP0058,Annette Bailey,52,Other,Mumbai,HR,Business Consultant,PhD,21-08-2025,Fresher,Part-time,46187,2,Yes,Divorced,Remote,81,4,7,3
+EMP0059,Michael Jackson,56,Male,Mumbai,Finance,Sales Associate,Diploma,18-02-2021,4.3 yrs,Contract,93333,4,No,Single,Remote,92,5,2,7
+EMP0060,Benjamin Williams,46,Female,Toronto,Finance,Finance Analyst,Diploma,12-02-2025,Fresher,Part-time,126231,5,No,Married,Hybrid,42,13,6,7
+EMP0061,Alison Diaz,37,Male,Mumbai,Sales,Operations Manager,PhD,14-10-2017,8.1 yrs,Contract,127135,4,No,Single,Hybrid,93,2,7,3
+EMP0062,Donna Freeman,44,Other,Toronto,Operations,Product Manager,PhD,16-02-2021,3.4 yrs,Full-time,75805,4,No,Divorced,Remote,99,28,10,8
+EMP0063,William Hart,55,Male,Berlin,HR,Software Engineer,PhD,28-04-2020,4.4 yrs,Part-time,86138,2,Yes,Divorced,On-site,31,20,2,2
+EMP0064,David Watson,39,Other,New York,HR,Product Manager,Masters,28-04-2020,4.4 yrs,Full-time,117250,5,No,Divorced,Hybrid,18,23,8,4
+EMP0065,Courtney Wolfe,26,Male,Tokyo,Finance,Data Analyst,Masters,17-11-2019,6.3 yrs,Contract,92500,2,Yes,Divorced,Remote,53,4,2,8
+EMP0066,Morgan Collins,28,Male,Mumbai,Sales,Sales Associate,Masters,29-03-2022,2.2 yrs,Part-time,107555,2,Yes,Married,Hybrid,72,8,3,2
+EMP0067,Brandi Green,24,Other,New York,HR,Operations Manager,PhD,29-08-2025,Fresher,Contract,58470,1,No,Divorced,Hybrid,47,7,6,5
+EMP0068,Michael Cooper,38,Male,New York,Finance,Marketing Executive,Diploma,10-11-2022,3.9 yrs,Full-time,54138,4,Yes,Married,On-site,20,11,9,10
+EMP0069,John Cohen,60,Female,Berlin,Operations,Sales Associate,Diploma,30-06-2018,7.5 yrs,Full-time,100279,5,No,Single,On-site,64,12,2,6
+EMP0070,Neil Bailey,51,Male,Toronto,Operations,IT Support,Masters,27-03-2018,7.6 yrs,Part-time,100484,2,No,Married,On-site,56,17,10,7
+EMP0071,Douglas Gonzalez,48,Male,Sydney,Operations,Marketing Executive,Masters,16-07-2020,4.1 yrs,Contract,72502,5,No,Divorced,Hybrid,67,0,6,8
+EMP0072,Mr. James Rivera,34,Female,Mumbai,Marketing,Business Consultant,Bachelors,12-05-2025,Fresher,Full-time,59663,1,No,Single,On-site,76,20,1,8
+EMP0073,Michelle Adams,45,Other,Sydney,Sales,Business Consultant,PhD,27-04-2017,7.6 yrs,Full-time,78741,5,No,Married,Hybrid,44,18,8,9
+EMP0074,Mary Chavez,44,Male,Berlin,Operations,Business Consultant,Bachelors,03-07-2021,3.5 yrs,Part-time,134293,4,No,Divorced,Hybrid,90,9,7,3
+EMP0075,Ashley Salazar,60,Female,Berlin,Marketing,Sales Associate,PhD,01-06-2022,2.5 yrs,Part-time,136376,1,Yes,Divorced,Hybrid,74,9,8,10
+EMP0076,Joseph Anderson,26,Male,London,Operations,Marketing Executive,Masters,13-05-2016,9.8 yrs,Full-time,144518,1,No,Married,On-site,54,3,1,7
+EMP0077,Joseph Webb,23,Female,London,Sales,Business Consultant,Diploma,19-02-2019,6.5 yrs,Contract,68840,2,No,Divorced,On-site,46,3,3,7
+EMP0078,Scott Jones,49,Other,Tokyo,HR,Operations Manager,Bachelors,17-05-2024,Fresher,Part-time,80171,3,Yes,Single,Hybrid,71,19,2,8
+EMP0079,Leonard Williams,26,Male,New York,HR,Data Analyst,Diploma,23-09-2021,3.3 yrs,Full-time,44520,3,No,Single,Hybrid,52,5,1,7
+EMP0080,Christine Cooper,57,Other,Mumbai,IT,Operations Manager,Bachelors,22-05-2018,6.5 yrs,Contract,54247,3,Yes,Single,Remote,69,20,10,1
+EMP0081,Christina Gibson,53,Male,Tokyo,Marketing,Finance Analyst,PhD,06-12-2019,5.1 yrs,Full-time,89909,1,Yes,Divorced,Remote,14,16,3,1
+EMP0082,Heather Flores,57,Female,Mumbai,Marketing,Data Analyst,Masters,06-12-2016,9.9 yrs,Part-time,48111,4,Yes,Married,Hybrid,34,19,8,10
+EMP0083,Gary Davis,40,Female,New York,Operations,IT Support,PhD,11-09-2016,8.5 yrs,Contract,82965,5,Yes,Single,Hybrid,78,11,1,6
+EMP0084,Stephanie Kelly,25,Female,Mumbai,Sales,Data Analyst,Bachelors,28-07-2022,2.4 yrs,Part-time,131610,1,Yes,Married,Remote,30,25,1,6
+EMP0085,Monique Garza,40,Other,Sydney,IT,HR Manager,Masters,09-11-2024,Fresher,Full-time,33767,3,Yes,Single,Remote,88,7,2,7
+EMP0086,Jessica Miller,49,Male,Singapore,HR,Marketing Executive,Bachelors,07-08-2019,6.3 yrs,Contract,96085,2,Yes,Married,Hybrid,69,18,5,8
+EMP0087,Jody Sullivan,42,Female,London,Operations,Operations Manager,Masters,30-11-2018,6.2 yrs,Contract,146241,1,Yes,Divorced,Remote,77,5,5,3
+EMP0088,Denise Robinson,26,Female,Toronto,IT,Product Manager,Diploma,27-12-2021,3.9 yrs,Part-time,93549,2,No,Married,On-site,88,18,4,8
+EMP0089,Mr. Stanley Griffith,30,Other,Toronto,HR,IT Support,PhD,29-07-2020,4.7 yrs,Contract,51563,3,Yes,Divorced,Remote,34,5,7,8
+EMP0090,William Peterson,39,Other,Berlin,HR,Sales Associate,Diploma,11-07-2016,8.5 yrs,Part-time,47411,5,Yes,Single,Remote,34,15,7,4
+EMP0091,Alexander Noble,30,Other,Singapore,Marketing,Product Manager,Bachelors,26-12-2019,6.1 yrs,Contract,139308,4,Yes,Married,Hybrid,27,25,8,10
+EMP0092,Justin Cummings,30,Male,London,Marketing,Operations Manager,Diploma,20-07-2020,4.4 yrs,Contract,54929,5,No,Single,Hybrid,10,1,3,10
+EMP0093,Brittany Bray,57,Other,London,IT,Sales Associate,PhD,26-04-2024,Fresher,Contract,42733,2,Yes,Divorced,On-site,69,26,10,6
+EMP0094,Danielle Riley,41,Female,Mumbai,Sales,Sales Associate,Bachelors,19-07-2024,1.2 yrs,Full-time,114951,2,Yes,Married,On-site,37,17,1,1
+EMP0095,Ethan Deleon,31,Other,London,Marketing,Sales Associate,Bachelors,26-12-2023,2.8 yrs,Part-time,134604,2,No,Single,On-site,17,26,9,9
+EMP0096,Kayla Ryan,36,Female,Berlin,Operations,HR Manager,Diploma,03-12-2024,1.5 yrs,Part-time,73321,3,Yes,Divorced,Remote,82,30,9,5
+EMP0097,Steve Mcdonald,28,Male,New York,Finance,Business Consultant,Diploma,24-08-2018,7.2 yrs,Part-time,85504,4,No,Divorced,Hybrid,43,23,6,4
+EMP0098,Jessica Rice,34,Male,Berlin,Finance,IT Support,Diploma,13-06-2018,7.7 yrs,Full-time,48419,1,No,Divorced,On-site,21,17,2,3
+EMP0099,Joyce Vargas,58,Female,Berlin,IT,Marketing Executive,Diploma,08-02-2021,3.1 yrs,Full-time,87398,1,Yes,Single,Remote,35,3,8,6
+EMP0100,Yolanda Johnson,55,Male,Mumbai,Operations,IT Support,Masters,18-05-2019,5.7 yrs,Full-time,94003,4,Yes,Single,Remote,92,25,1,3
+EMP0101,Erica Turner,38,Other,Sydney,Finance,HR Manager,Diploma,04-07-2020,4.7 yrs,Full-time,64499,1,Yes,Married,Hybrid,96,15,4,3
+EMP0102,Christine Clark,46,Male,New York,Operations,Sales Associate,Masters,27-07-2022,4.0 yrs,Part-time,109914,1,Yes,Divorced,Remote,72,23,10,2
+EMP0103,Gabriel Walker,59,Female,New York,Finance,Marketing Executive,Bachelors,11-02-2017,8.1 yrs,Full-time,131823,4,Yes,Married,On-site,30,22,5,1
+EMP0104,Matthew Peterson,41,Male,Sydney,Marketing,Operations Manager,Masters,17-08-2016,9.8 yrs,Full-time,70275,2,No,Married,Hybrid,51,9,8,9
+EMP0105,Sheila Turner,27,Male,Mumbai,Sales,HR Manager,PhD,15-10-2021,3.1 yrs,Part-time,85568,3,No,Divorced,On-site,74,13,9,4
+EMP0106,Joseph Melton,53,Male,Singapore,IT,IT Support,Diploma,02-06-2019,5.1 yrs,Part-time,35851,1,Yes,Married,On-site,82,15,4,1
+EMP0107,John Haynes,27,Other,London,HR,HR Manager,Masters,31-07-2018,7.4 yrs,Full-time,112114,5,Yes,Single,Hybrid,46,17,3,1
+EMP0108,Adam White,58,Female,New York,Finance,Business Consultant,Masters,03-10-2022,3.5 yrs,Contract,48589,2,Yes,Divorced,Remote,99,26,3,6
+EMP0109,Elizabeth Lee,35,Male,New York,Marketing,HR Manager,Diploma,24-06-2019,6.8 yrs,Part-time,114978,2,No,Married,On-site,79,0,8,2
+EMP0110,Krista Peterson,29,Male,Sydney,IT,Sales Associate,Masters,06-09-2023,1.2 yrs,Full-time,143210,2,Yes,Single,On-site,62,16,2,3
+EMP0111,Kathleen Mason,44,Female,New York,Marketing,IT Support,Bachelors,20-09-2017,8.6 yrs,Full-time,33128,3,No,Divorced,Hybrid,73,17,3,1
+EMP0112,Jennifer Lucas,29,Male,Sydney,HR,Operations Manager,Masters,24-06-2023,2.7 yrs,Part-time,79725,3,No,Divorced,Hybrid,32,12,4,10
+EMP0113,Peter Grimes,46,Female,Mumbai,IT,Sales Associate,Masters,27-11-2018,6.1 yrs,Contract,67552,3,Yes,Divorced,Hybrid,37,21,6,2
+EMP0114,Nicole Velasquez,43,Female,Tokyo,Marketing,Finance Analyst,Diploma,30-05-2020,4.6 yrs,Contract,146461,5,Yes,Divorced,Hybrid,93,27,7,2
+EMP0115,Sheri Jones,53,Other,London,Finance,Business Consultant,Diploma,12-09-2024,1.1 yrs,Part-time,74898,1,No,Divorced,Hybrid,42,16,10,10
+EMP0116,John Salinas,53,Other,Tokyo,HR,Software Engineer,Masters,29-11-2018,7.5 yrs,Full-time,112186,2,Yes,Divorced,On-site,100,3,1,6
+EMP0117,Dr. Brenda Nielsen MD,58,Male,Toronto,Operations,Operations Manager,Bachelors,16-01-2019,6.5 yrs,Contract,133911,4,Yes,Married,Hybrid,42,14,9,7
+EMP0118,Teresa Bright,44,Female,Singapore,Sales,Operations Manager,Diploma,17-05-2018,6.0 yrs,Part-time,69655,5,Yes,Divorced,On-site,66,2,10,7
+EMP0119,Timothy Walters,24,Other,New York,Operations,HR Manager,Bachelors,02-12-2020,5.1 yrs,Full-time,136424,1,Yes,Divorced,Hybrid,89,6,8,10
+EMP0120,John Morrow,54,Male,New York,Sales,Software Engineer,PhD,13-04-2021,4.2 yrs,Part-time,108791,5,Yes,Single,On-site,41,17,5,4
+EMP0121,Lisa Richmond,52,Other,London,IT,Finance Analyst,PhD,05-05-2023,2.9 yrs,Full-time,137601,5,Yes,Single,Remote,27,18,6,2
+EMP0122,John Jones,54,Other,Tokyo,Marketing,Software Engineer,PhD,24-01-2020,4.6 yrs,Contract,72953,3,Yes,Divorced,Remote,17,29,4,4
+EMP0123,Patricia Williams,33,Male,Mumbai,Operations,Data Analyst,Bachelors,07-12-2021,3.7 yrs,Full-time,146462,4,Yes,Divorced,On-site,80,13,5,5
+EMP0124,Gerald Oconnor,32,Female,London,Finance,Finance Analyst,PhD,06-03-2017,7.9 yrs,Contract,86078,5,Yes,Divorced,Remote,95,20,8,5
+EMP0125,James Graham,31,Other,Berlin,Marketing,Software Engineer,Diploma,06-07-2016,9.0 yrs,Contract,93769,4,No,Married,On-site,50,6,1,6
+EMP0126,Jared Young,27,Other,Singapore,Finance,Marketing Executive,Masters,06-02-2019,5.4 yrs,Full-time,135230,5,Yes,Single,On-site,64,19,5,4
+EMP0127,Michael Williams,33,Female,Berlin,Marketing,Product Manager,Masters,23-03-2020,4.3 yrs,Full-time,67624,3,No,Divorced,Hybrid,27,26,2,3
+EMP0128,William Griffin,24,Other,Sydney,Sales,Business Consultant,Bachelors,31-07-2018,7.7 yrs,Part-time,103819,4,No,Married,Remote,29,2,9,1
+EMP0129,Tyler Smith,22,Other,Sydney,Finance,Marketing Executive,PhD,22-10-2019,6.1 yrs,Part-time,117705,3,Yes,Married,On-site,77,24,2,8
+EMP0130,Jonathan Wright,45,Male,Toronto,IT,Finance Analyst,Bachelors,08-04-2018,7.2 yrs,Full-time,111905,3,Yes,Divorced,Remote,80,8,6,3
+EMP0131,Susan Hahn,37,Other,Tokyo,Sales,HR Manager,PhD,17-05-2022,4.0 yrs,Contract,113992,4,Yes,Married,On-site,87,17,1,5
+EMP0132,Robert Mitchell,51,Other,New York,IT,Business Consultant,Bachelors,12-07-2021,3.1 yrs,Full-time,130904,4,No,Single,On-site,59,30,4,2
+EMP0133,James Higgins,44,Other,Sydney,Marketing,Product Manager,Bachelors,28-11-2023,2.1 yrs,Full-time,124587,5,No,Divorced,Hybrid,51,28,6,9
+EMP0134,Jacqueline Banks,35,Male,Toronto,Operations,Business Consultant,Bachelors,23-09-2020,4.6 yrs,Full-time,149180,3,Yes,Married,Hybrid,42,13,2,10
+EMP0135,Mark Parrish,35,Male,London,Marketing,Product Manager,PhD,15-11-2019,5.6 yrs,Contract,64669,2,Yes,Single,On-site,34,4,8,8
+EMP0136,Jennifer Jackson,38,Male,London,Finance,IT Support,PhD,14-07-2021,4.6 yrs,Full-time,101956,4,No,Married,Remote,45,0,8,1
+EMP0137,James Beck,33,Other,Sydney,Marketing,Marketing Executive,Diploma,23-03-2021,4.1 yrs,Part-time,44070,1,Yes,Single,Remote,22,7,1,2
+EMP0138,Tiffany Fisher,57,Female,New York,IT,IT Support,PhD,10-10-2017,7.1 yrs,Part-time,132849,5,No,Single,Hybrid,76,7,8,3
+EMP0139,Samantha Nguyen,36,Female,Tokyo,IT,IT Support,Masters,27-05-2024,Fresher,Contract,79003,5,Yes,Married,Remote,61,27,10,3
+EMP0140,Dawn Richmond,28,Male,New York,Finance,Sales Associate,PhD,16-02-2018,6.9 yrs,Part-time,50284,1,Yes,Divorced,Hybrid,78,24,8,7
+EMP0141,Brian Wong,38,Male,Tokyo,Finance,Finance Analyst,Masters,20-10-2017,9.0 yrs,Full-time,62060,1,No,Single,On-site,69,6,4,3
+EMP0142,Edward Tran,38,Male,Berlin,Sales,IT Support,Diploma,26-03-2017,7.9 yrs,Part-time,34027,1,Yes,Divorced,On-site,28,0,4,10
+EMP0143,Nicole Arroyo,31,Other,Toronto,HR,Finance Analyst,Bachelors,22-08-2023,2.8 yrs,Full-time,63653,2,Yes,Divorced,Hybrid,90,27,5,10
+EMP0144,Bradley Fuller,34,Male,Toronto,HR,Software Engineer,Masters,11-01-2025,Fresher,Part-time,133982,2,No,Single,On-site,90,3,2,4
+EMP0145,Patricia Johnson,52,Female,Tokyo,Finance,Product Manager,Bachelors,15-07-2023,1.9 yrs,Part-time,49463,4,No,Divorced,Hybrid,94,22,1,3
+EMP0146,Amy Deleon,59,Other,Mumbai,IT,Product Manager,Masters,25-01-2025,Fresher,Contract,48283,2,No,Divorced,Remote,47,26,1,7
+EMP0147,Luke Rodriguez,54,Other,Mumbai,Marketing,IT Support,Bachelors,22-10-2023,2.4 yrs,Full-time,33721,5,No,Divorced,Remote,29,28,6,1
+EMP0148,Meredith Chambers,28,Female,New York,HR,Product Manager,PhD,26-06-2016,9.4 yrs,Full-time,85628,4,No,Divorced,Remote,97,9,6,3
+EMP0149,Erik Flores,26,Other,Sydney,IT,Data Analyst,Bachelors,01-09-2024,1.8 yrs,Contract,118756,5,No,Single,Hybrid,30,16,9,1
+EMP0150,Sandy Walls,45,Other,New York,IT,IT Support,PhD,13-09-2023,1.5 yrs,Full-time,120805,4,No,Divorced,Remote,58,10,2,2
+EMP0151,Jasmine Woods,30,Female,Mumbai,Finance,Sales Associate,Masters,08-03-2016,8.8 yrs,Part-time,128063,1,No,Single,Remote,58,15,9,7
+EMP0152,Darryl Hart,59,Other,Tokyo,Operations,HR Manager,PhD,17-09-2025,Fresher,Part-time,35180,1,Yes,Single,On-site,33,1,10,6
+EMP0153,Jimmy Pittman,34,Female,Sydney,Operations,Data Analyst,Bachelors,08-03-2017,7.5 yrs,Part-time,121416,2,No,Married,Hybrid,60,27,2,4
+EMP0154,Susan Woods,24,Other,London,HR,Finance Analyst,Masters,21-05-2021,3.9 yrs,Contract,115104,5,No,Divorced,Remote,20,11,10,4
+EMP0155,Stacey Parrish,34,Male,Berlin,Marketing,Finance Analyst,Masters,02-11-2021,3.3 yrs,Part-time,74364,5,Yes,Divorced,Remote,70,1,4,2
+EMP0156,David Valenzuela,56,Male,London,Operations,Data Analyst,Bachelors,16-07-2023,2.8 yrs,Full-time,132812,3,No,Single,Hybrid,48,28,1,1
+EMP0157,Danielle Robinson,59,Other,Tokyo,Finance,Operations Manager,Diploma,12-05-2025,Fresher,Contract,49354,2,No,Divorced,On-site,96,20,6,9
+EMP0158,Andrea Silva,59,Other,London,Operations,Data Analyst,Diploma,07-10-2024,Fresher,Part-time,122081,5,No,Single,Remote,38,9,4,1
+EMP0159,Joshua Robinson,24,Other,Mumbai,IT,HR Manager,Masters,27-12-2023,1.5 yrs,Part-time,40618,3,Yes,Single,Remote,25,13,8,2
+EMP0160,Andrew Morrison,58,Other,New York,Marketing,Finance Analyst,Diploma,25-12-2021,3.8 yrs,Full-time,80061,1,No,Single,Remote,95,12,5,8
+EMP0161,Christine Mendoza DDS,25,Other,Sydney,HR,Software Engineer,Bachelors,26-11-2015,9.1 yrs,Full-time,112751,1,No,Married,Remote,72,30,10,7
+EMP0162,Samantha Gross,54,Female,New York,Operations,Business Consultant,Masters,18-09-2022,4.0 yrs,Part-time,111783,1,No,Single,Hybrid,31,9,5,10
+EMP0163,Kelly Walsh,36,Male,London,HR,Business Consultant,Masters,03-07-2017,8.2 yrs,Contract,61147,3,Yes,Single,Remote,31,16,2,2
+EMP0164,Alex Burch,34,Male,Mumbai,Operations,Data Analyst,Diploma,02-12-2023,2.2 yrs,Contract,110705,3,No,Single,On-site,16,11,3,10
+EMP0165,Lance Jones,45,Other,New York,Sales,IT Support,Bachelors,20-10-2022,2.2 yrs,Contract,39998,1,Yes,Married,Hybrid,18,27,1,9
+EMP0166,Brandon Evans,43,Male,Singapore,Sales,Data Analyst,Masters,25-03-2018,6.7 yrs,Part-time,133861,3,Yes,Divorced,Hybrid,17,14,5,7
+EMP0167,Amanda Pham,60,Other,New York,Sales,Finance Analyst,Masters,28-05-2024,1.6 yrs,Part-time,142465,5,Yes,Divorced,On-site,16,21,1,6
+EMP0168,Bonnie Perez,38,Other,Toronto,Sales,IT Support,Diploma,13-01-2022,3.5 yrs,Part-time,135782,3,Yes,Single,Hybrid,44,19,9,9
+EMP0169,Joseph Morales,45,Male,Mumbai,Marketing,IT Support,Diploma,22-01-2017,8.9 yrs,Full-time,124539,4,No,Married,Hybrid,97,19,8,7
+EMP0170,Phillip Dorsey,27,Female,Mumbai,HR,Operations Manager,Masters,28-08-2024,1.3 yrs,Part-time,144522,1,Yes,Married,Remote,63,13,3,7
+EMP0171,Tanner Myers,53,Male,Singapore,IT,Sales Associate,Diploma,01-02-2019,5.6 yrs,Contract,99845,2,No,Single,Hybrid,22,25,6,10
+EMP0172,Jason Smith,41,Other,Sydney,HR,Product Manager,Masters,13-01-2016,9.3 yrs,Part-time,42729,2,Yes,Married,Hybrid,35,27,2,8
+EMP0173,Vincent Miller,43,Male,Tokyo,Operations,Product Manager,Masters,14-09-2022,3.9 yrs,Full-time,62715,5,No,Divorced,Hybrid,68,22,7,5
+EMP0174,Heather Fisher,34,Other,Tokyo,Finance,Product Manager,PhD,07-11-2019,6.2 yrs,Contract,95290,5,Yes,Divorced,On-site,46,19,7,9
+EMP0175,Angela Wheeler,26,Female,Berlin,Operations,IT Support,Masters,24-05-2017,7.3 yrs,Full-time,137139,2,No,Divorced,Hybrid,35,25,3,2
+EMP0176,Taylor Cervantes,59,Female,Singapore,Marketing,IT Support,Masters,06-04-2021,3.5 yrs,Full-time,145334,3,Yes,Married,On-site,23,27,10,10
+EMP0177,Angela Wilson,46,Female,London,IT,HR Manager,Masters,11-12-2020,4.1 yrs,Part-time,144011,4,Yes,Single,On-site,100,10,4,7
+EMP0178,Tanya Blackwell,22,Female,New York,Operations,Marketing Executive,Diploma,31-08-2018,7.4 yrs,Contract,142540,3,No,Married,Remote,45,2,9,6
+EMP0179,Daniel Spence,37,Female,New York,Sales,Marketing Executive,PhD,10-07-2016,8.8 yrs,Contract,72471,3,No,Married,Remote,94,15,1,3
+EMP0180,Melissa Garcia,37,Female,Toronto,Marketing,Finance Analyst,PhD,18-01-2016,9.7 yrs,Part-time,39312,3,No,Married,On-site,93,26,1,2
+EMP0181,Anne Turner,31,Female,Singapore,Operations,HR Manager,Masters,11-09-2016,8.9 yrs,Contract,56295,3,No,Divorced,Hybrid,50,30,6,5
+EMP0182,Julie Kerr,27,Other,Singapore,Sales,HR Manager,PhD,28-09-2023,2.6 yrs,Full-time,99976,4,Yes,Married,Remote,31,5,7,7
+EMP0183,Michael Leach,24,Male,New York,Operations,Software Engineer,PhD,02-04-2021,3.3 yrs,Part-time,110761,1,Yes,Divorced,Remote,82,7,6,6
+EMP0184,Jennifer Brown,51,Other,Singapore,Marketing,Sales Associate,PhD,30-04-2018,7.6 yrs,Contract,114126,4,Yes,Single,On-site,96,0,10,5
+EMP0185,Jonathan Dyer,27,Male,London,IT,HR Manager,Masters,23-02-2022,3.4 yrs,Full-time,47374,3,No,Single,Remote,83,6,2,1
+EMP0186,Pamela Rodriguez DDS,42,Other,Singapore,Finance,Operations Manager,Diploma,19-06-2016,8.0 yrs,Contract,46972,5,Yes,Married,Hybrid,21,24,1,1
+EMP0187,Samantha Mcdaniel,22,Female,London,Operations,Sales Associate,PhD,18-10-2017,8.2 yrs,Full-time,149031,2,Yes,Single,On-site,52,1,7,5
+EMP0188,Sara Graves,29,Other,Singapore,Marketing,Software Engineer,Masters,19-04-2016,8.0 yrs,Part-time,88383,4,Yes,Divorced,Hybrid,32,13,5,2
+EMP0189,Michael Miles,41,Female,New York,IT,Product Manager,Bachelors,28-10-2021,3.3 yrs,Full-time,135986,2,Yes,Single,Hybrid,51,27,9,3
+EMP0190,Jessica Hawkins,27,Male,Berlin,Operations,IT Support,Bachelors,16-06-2020,4.0 yrs,Contract,139884,5,No,Single,On-site,50,13,6,9
+EMP0191,Paul Nguyen,38,Male,Sydney,Finance,Operations Manager,PhD,12-05-2017,7.4 yrs,Full-time,82995,5,Yes,Single,On-site,65,12,6,3
+EMP0192,Bradley Ortiz,43,Male,Toronto,Finance,Product Manager,Diploma,05-06-2019,5.7 yrs,Part-time,80284,2,Yes,Divorced,Hybrid,38,15,10,7
+EMP0193,Jessica Hess,35,Male,Berlin,Finance,HR Manager,Diploma,25-10-2019,5.5 yrs,Part-time,63215,1,No,Divorced,On-site,18,20,4,5
+EMP0194,Kyle Matthews,27,Other,Sydney,Finance,Operations Manager,Diploma,31-05-2017,8.8 yrs,Full-time,104566,2,No,Divorced,Hybrid,20,12,9,5
+EMP0195,James Henry,45,Other,London,Sales,Data Analyst,Diploma,11-01-2025,Fresher,Part-time,125548,4,No,Divorced,Remote,73,22,3,8
+EMP0196,Victor Simpson,52,Female,Mumbai,Operations,Business Consultant,PhD,23-02-2021,3.6 yrs,Contract,62251,1,No,Married,Remote,77,9,1,4
+EMP0197,Yolanda Thompson,60,Female,New York,HR,Product Manager,Diploma,21-05-2020,5.0 yrs,Contract,74977,5,Yes,Divorced,Hybrid,38,2,5,10
+EMP0198,Marc Lee,60,Male,New York,Sales,Business Consultant,Masters,06-12-2024,1.5 yrs,Contract,87656,1,No,Married,Remote,52,15,1,3
+EMP0199,David Alvarez,28,Male,Sydney,IT,Software Engineer,PhD,26-12-2024,1.0 yrs,Full-time,80415,4,Yes,Single,On-site,44,5,8,8
+EMP0200,Alexander Aguilar,42,Male,Toronto,Marketing,HR Manager,Bachelors,11-06-2024,Fresher,Part-time,60426,5,Yes,Divorced,Hybrid,54,11,3,1
+EMP0201,Joseph Gibson,53,Female,Tokyo,IT,Software Engineer,Masters,01-12-2017,8.2 yrs,Contract,131802,3,No,Single,Remote,33,2,9,9
+EMP0202,Kristen Bailey,53,Other,Tokyo,Finance,Marketing Executive,Diploma,17-09-2024,1.5 yrs,Contract,139344,3,Yes,Divorced,On-site,41,4,1,6
+EMP0203,Steven Garcia,34,Male,London,Operations,Operations Manager,Masters,21-02-2016,9.6 yrs,Full-time,42830,5,No,Married,Hybrid,64,20,3,10
+EMP0204,Angel Clark,32,Male,Mumbai,Marketing,Finance Analyst,PhD,02-05-2019,6.7 yrs,Full-time,124220,3,Yes,Divorced,Hybrid,45,20,7,3
+EMP0205,Diane Bradley,56,Other,Tokyo,IT,Marketing Executive,Bachelors,26-11-2019,5.7 yrs,Part-time,104885,5,No,Single,Remote,47,7,5,7
+EMP0206,Christopher Evans,29,Other,Singapore,Finance,Marketing Executive,Masters,21-07-2021,5.0 yrs,Full-time,57177,1,No,Married,On-site,53,17,3,10
+EMP0207,Robert Ryan,42,Female,Sydney,HR,IT Support,Bachelors,30-06-2023,1.1 yrs,Full-time,96562,1,Yes,Single,Hybrid,70,18,8,3
+EMP0208,John Valenzuela,55,Other,Mumbai,Operations,Data Analyst,Masters,27-12-2019,6.8 yrs,Contract,132413,1,Yes,Married,On-site,30,15,2,2
+EMP0209,Timothy Fields,24,Male,Toronto,Marketing,Data Analyst,PhD,08-07-2023,1.8 yrs,Part-time,90480,5,Yes,Single,On-site,14,11,4,7
+EMP0210,Brooke Romero,59,Female,Toronto,HR,Sales Associate,Diploma,20-02-2023,2.7 yrs,Full-time,88115,5,No,Married,Hybrid,93,1,8,1
+EMP0211,Angela Johnston,32,Male,Mumbai,Marketing,Sales Associate,Masters,27-08-2016,8.7 yrs,Contract,36009,2,No,Divorced,On-site,44,22,5,5
+EMP0212,Walter Cruz,46,Male,New York,Operations,Finance Analyst,PhD,27-04-2016,8.9 yrs,Full-time,53535,1,No,Married,On-site,21,27,5,1
+EMP0213,Colleen Jones,57,Other,Tokyo,Marketing,IT Support,Bachelors,14-06-2018,6.8 yrs,Contract,70760,3,Yes,Divorced,Hybrid,52,13,6,2
+EMP0214,Victoria Barton,31,Female,New York,HR,Sales Associate,Masters,09-07-2017,8.2 yrs,Full-time,81349,3,No,Single,Hybrid,78,30,1,8
+EMP0215,Lori Mathis,49,Male,London,Operations,Business Consultant,PhD,12-01-2016,9.3 yrs,Full-time,130483,1,Yes,Divorced,Hybrid,41,28,10,3
+EMP0216,Amanda Wallace,26,Male,Mumbai,Marketing,Marketing Executive,Diploma,17-09-2021,4.4 yrs,Part-time,99433,3,Yes,Married,Hybrid,56,27,7,10
+EMP0217,Pamela Mason,37,Female,Berlin,Marketing,IT Support,Masters,14-12-2022,3.2 yrs,Part-time,113456,4,Yes,Single,On-site,82,16,8,4
+EMP0218,Alan Garcia,53,Female,Toronto,Sales,Data Analyst,PhD,14-01-2018,7.9 yrs,Full-time,39203,4,Yes,Single,On-site,21,16,4,1
+EMP0219,Jonathan Smith,41,Male,Berlin,Marketing,Operations Manager,Diploma,16-01-2020,5.3 yrs,Contract,53589,2,Yes,Divorced,Hybrid,19,3,5,2
+EMP0220,Erin Burke,46,Other,New York,Operations,Marketing Executive,Bachelors,23-12-2017,8.0 yrs,Contract,126199,5,No,Single,Remote,12,21,8,9
+EMP0221,Stacey Mitchell,50,Other,Singapore,IT,Marketing Executive,PhD,09-04-2017,7.6 yrs,Full-time,116133,2,No,Single,Hybrid,26,3,4,3
+EMP0222,Alexandra Norris,27,Male,Tokyo,HR,Operations Manager,Masters,26-07-2024,1.6 yrs,Full-time,31283,2,Yes,Married,On-site,24,13,9,10
+EMP0223,Hannah Liu,57,Female,New York,HR,Software Engineer,Diploma,03-03-2022,3.9 yrs,Contract,62491,1,Yes,Married,Remote,29,25,1,4
+EMP0224,Katherine Adams,27,Male,New York,Finance,Business Consultant,PhD,27-05-2020,4.7 yrs,Full-time,101709,1,Yes,Divorced,Remote,79,14,3,6
+EMP0225,Denise Hernandez,34,Male,Toronto,Finance,Sales Associate,Diploma,20-09-2019,5.8 yrs,Contract,55230,2,Yes,Divorced,Remote,11,23,10,5
+EMP0226,Jill Lee,58,Male,Toronto,IT,Business Consultant,PhD,30-10-2022,2.9 yrs,Full-time,71012,3,Yes,Single,On-site,39,11,4,8
+EMP0227,Jacob Powell,35,Male,Berlin,IT,IT Support,Bachelors,19-08-2023,1.4 yrs,Part-time,89396,2,Yes,Divorced,On-site,70,7,1,6
+EMP0228,Janet Turner,59,Male,London,HR,HR Manager,Bachelors,14-03-2022,2.0 yrs,Full-time,96563,3,No,Married,On-site,45,29,4,9
+EMP0229,Tonya Morris,27,Male,Mumbai,Operations,Business Consultant,Bachelors,29-11-2020,4.1 yrs,Contract,88409,5,Yes,Single,Hybrid,66,25,2,1
+EMP0230,Maria Wilson,48,Male,London,IT,HR Manager,Masters,14-07-2019,6.3 yrs,Part-time,68785,1,No,Married,On-site,16,27,7,8
+EMP0231,Thomas Wright,50,Female,Singapore,Marketing,HR Manager,PhD,19-11-2023,2.3 yrs,Part-time,104494,4,No,Single,Remote,87,20,6,9
+EMP0232,David Hernandez,52,Other,New York,Operations,Business Consultant,Masters,22-04-2017,8.6 yrs,Full-time,66224,3,No,Married,On-site,95,24,8,8
+EMP0233,Abigail Evans,34,Other,Singapore,HR,Operations Manager,Bachelors,17-09-2023,1.7 yrs,Part-time,98425,5,Yes,Single,On-site,68,6,1,9
+EMP0234,Diana Cochran,38,Female,Berlin,HR,Product Manager,Diploma,21-05-2023,1.3 yrs,Full-time,131630,1,Yes,Single,Hybrid,57,17,1,10
+EMP0235,Katherine West,35,Female,New York,Marketing,HR Manager,Diploma,23-04-2022,2.8 yrs,Contract,65477,2,Yes,Single,On-site,44,28,7,7
+EMP0236,Richard Campbell,40,Male,New York,Finance,HR Manager,Masters,22-04-2016,9.2 yrs,Full-time,92798,2,Yes,Single,On-site,51,6,8,3
+EMP0237,Elizabeth Horton,48,Male,Sydney,Operations,Data Analyst,Bachelors,07-07-2022,2.1 yrs,Full-time,78131,4,Yes,Single,Hybrid,69,16,5,4
+EMP0238,Stephanie Bonilla,60,Other,Singapore,Operations,IT Support,Masters,20-04-2025,Fresher,Full-time,48675,5,Yes,Single,On-site,77,11,1,2
+EMP0239,Derrick Benjamin,54,Other,Tokyo,Sales,HR Manager,Bachelors,17-10-2015,9.1 yrs,Contract,80108,2,No,Married,On-site,24,1,2,9
+EMP0240,Christine Boyd,34,Other,Mumbai,HR,Sales Associate,Diploma,03-09-2025,Fresher,Part-time,84567,1,No,Married,On-site,77,2,10,10
+EMP0241,Tammy Harvey,52,Other,London,Finance,HR Manager,PhD,01-11-2022,2.3 yrs,Contract,51914,1,Yes,Single,Remote,57,16,8,7
+EMP0242,Brooke Vargas,40,Female,Singapore,HR,HR Manager,Diploma,11-07-2024,1.7 yrs,Contract,145455,1,No,Single,Hybrid,46,22,3,8
+EMP0243,Connie Hall DVM,27,Other,London,Finance,Marketing Executive,Masters,25-05-2019,5.6 yrs,Contract,90307,1,No,Married,On-site,79,22,4,2
+EMP0244,Katrina Jackson,53,Female,Berlin,HR,Finance Analyst,PhD,24-05-2023,2.6 yrs,Part-time,139134,3,No,Married,On-site,56,18,1,3
+EMP0245,Joseph Tucker,37,Male,Mumbai,HR,Finance Analyst,Diploma,05-01-2022,3.0 yrs,Part-time,72007,4,No,Single,Remote,42,29,3,3
+EMP0246,Joanna Thomas,47,Male,Tokyo,Marketing,HR Manager,Bachelors,26-04-2016,8.3 yrs,Full-time,69707,5,Yes,Divorced,Remote,93,2,3,7
+EMP0247,Julie Molina,42,Female,New York,Marketing,Product Manager,Masters,02-02-2019,7.0 yrs,Contract,55403,4,No,Single,Hybrid,19,19,10,2
+EMP0248,Monica Miller,33,Other,New York,Marketing,Operations Manager,PhD,19-06-2025,Fresher,Contract,43072,4,Yes,Divorced,Hybrid,89,19,5,5
+EMP0249,Tiffany Johnson,26,Other,Singapore,Marketing,Finance Analyst,Bachelors,24-08-2025,Fresher,Full-time,40736,3,No,Married,On-site,37,20,4,1
+EMP0250,Robert Andrews,43,Other,Berlin,IT,Data Analyst,Masters,16-11-2018,7.3 yrs,Part-time,105685,2,No,Single,Hybrid,13,27,3,6
+EMP0251,Brandy Cain,35,Female,Mumbai,Sales,Product Manager,Diploma,24-09-2019,5.4 yrs,Part-time,34166,1,No,Single,Remote,52,21,3,2
+EMP0252,Mark Rodriguez,47,Male,Toronto,Operations,Operations Manager,PhD,22-10-2023,1.3 yrs,Part-time,96988,4,Yes,Divorced,On-site,22,12,7,5
+EMP0253,Ryan Kelley,42,Female,London,IT,Product Manager,Diploma,07-07-2021,4.2 yrs,Contract,144120,1,No,Single,Remote,62,24,3,1
+EMP0254,Robert Michael,41,Male,Mumbai,Marketing,Operations Manager,Masters,02-12-2024,1.5 yrs,Contract,139711,4,Yes,Single,Remote,53,24,6,2
+EMP0255,Lisa Gallagher,55,Female,New York,Operations,Marketing Executive,Diploma,03-07-2023,1.5 yrs,Contract,88115,4,No,Married,Remote,26,1,6,9
+EMP0256,Aaron Thomas,42,Other,London,Sales,HR Manager,Diploma,10-08-2025,Fresher,Full-time,148024,1,No,Divorced,On-site,59,14,2,5
+EMP0257,Chad Sullivan,23,Male,Tokyo,Marketing,Operations Manager,PhD,18-11-2019,5.1 yrs,Full-time,125043,5,No,Single,On-site,45,13,7,1
+EMP0258,Chelsea Clayton,42,Male,Mumbai,IT,Product Manager,Masters,30-10-2015,9.3 yrs,Part-time,33542,2,Yes,Married,Hybrid,89,10,4,2
+EMP0259,Robin English,27,Other,Tokyo,Finance,Marketing Executive,PhD,02-07-2016,8.8 yrs,Full-time,114434,4,No,Single,On-site,100,12,10,4
+EMP0260,David Arias,27,Other,London,IT,Data Analyst,Masters,26-12-2019,5.6 yrs,Part-time,81055,5,Yes,Divorced,On-site,68,17,10,7
+EMP0261,Gary Stevens,30,Other,Mumbai,IT,Operations Manager,PhD,20-07-2022,3.6 yrs,Part-time,105191,3,No,Divorced,On-site,51,4,2,5
+EMP0262,Nicole Solomon,57,Other,Tokyo,HR,HR Manager,Masters,15-09-2023,1.7 yrs,Full-time,77260,2,Yes,Single,Hybrid,50,2,1,5
+EMP0263,Lisa Perry,36,Female,Singapore,Operations,Operations Manager,PhD,08-06-2024,Fresher,Full-time,36805,5,Yes,Divorced,On-site,34,8,1,10
+EMP0264,William Coleman,22,Other,New York,HR,Data Analyst,PhD,06-11-2021,4.9 yrs,Contract,103556,3,No,Divorced,On-site,64,26,8,5
+EMP0265,Crystal Russell,33,Male,Toronto,Marketing,IT Support,Diploma,08-10-2016,8.2 yrs,Part-time,81098,4,No,Single,Hybrid,87,7,9,2
+EMP0266,Paul Johnson,43,Male,Tokyo,Sales,Finance Analyst,Masters,25-03-2021,3.5 yrs,Part-time,43778,5,No,Divorced,Hybrid,93,4,3,6
+EMP0267,Kenneth Clarke,25,Male,London,Operations,Finance Analyst,Bachelors,10-10-2018,6.3 yrs,Full-time,112307,1,No,Married,On-site,25,10,5,3
+EMP0268,Kevin Cain,32,Male,Sydney,HR,Sales Associate,Masters,25-01-2018,6.1 yrs,Full-time,36099,4,No,Divorced,On-site,49,17,5,8
+EMP0269,Mario Mcgee,42,Female,London,Marketing,Product Manager,Diploma,01-12-2017,8.7 yrs,Contract,124191,1,Yes,Divorced,On-site,85,9,4,2
+EMP0270,Roberto Sharp,34,Male,Sydney,HR,Operations Manager,Masters,04-01-2017,8.7 yrs,Contract,57434,5,No,Married,Hybrid,73,15,8,1
+EMP0271,Alvin Morrison,55,Other,Tokyo,HR,Marketing Executive,Bachelors,27-08-2019,5.1 yrs,Contract,148534,4,No,Divorced,On-site,57,22,4,7
+EMP0272,Doris Donaldson,46,Female,Singapore,Operations,Sales Associate,Masters,11-08-2023,2.3 yrs,Part-time,89494,2,Yes,Married,On-site,98,4,3,9
+EMP0273,Kevin Vazquez,52,Male,Toronto,Finance,HR Manager,Masters,28-01-2018,7.3 yrs,Part-time,62173,1,No,Single,Remote,23,13,6,4
+EMP0274,Jacqueline Garcia,37,Male,Singapore,HR,Sales Associate,Diploma,10-08-2022,2.9 yrs,Full-time,135342,4,No,Divorced,Hybrid,48,22,4,9
+EMP0275,Leslie Jones,35,Female,Berlin,Marketing,IT Support,Masters,23-06-2018,7.7 yrs,Full-time,67833,3,Yes,Divorced,Hybrid,67,22,6,4
+EMP0276,John Stanley,56,Female,Berlin,Marketing,IT Support,Masters,27-07-2023,1.2 yrs,Part-time,85369,2,No,Divorced,Remote,88,26,9,8
+EMP0277,Robert Cooper,24,Male,London,Operations,Product Manager,Bachelors,12-06-2021,4.7 yrs,Full-time,81312,2,Yes,Single,On-site,44,9,7,2
+EMP0278,Scott Gonzales,52,Other,Tokyo,HR,IT Support,Diploma,02-06-2025,Fresher,Full-time,113912,4,No,Divorced,Hybrid,25,28,9,5
+EMP0279,Christina Hampton,42,Other,Tokyo,Finance,Business Consultant,Diploma,08-06-2021,4.9 yrs,Part-time,86145,3,Yes,Married,Remote,73,27,10,2
+EMP0280,Matthew Bryant,46,Female,New York,Marketing,IT Support,Masters,03-12-2017,7.5 yrs,Full-time,53320,5,No,Married,On-site,65,16,5,2
+EMP0281,Daniel Lutz,23,Other,Singapore,Sales,Finance Analyst,Masters,13-07-2024,Fresher,Part-time,103251,1,Yes,Single,On-site,60,30,1,8
+EMP0282,Miranda Hernandez,48,Female,Sydney,IT,Operations Manager,Diploma,01-08-2017,8.2 yrs,Full-time,75825,4,Yes,Divorced,Remote,42,29,5,9
+EMP0283,Sabrina Burnett,39,Male,Tokyo,Operations,Data Analyst,Bachelors,28-10-2021,3.3 yrs,Contract,143333,3,Yes,Married,Hybrid,43,21,8,4
+EMP0284,Amanda Bailey,53,Male,New York,HR,HR Manager,Masters,12-10-2019,5.9 yrs,Full-time,138973,2,Yes,Single,Hybrid,88,5,5,4
+EMP0285,Brittney Bauer,44,Female,New York,HR,Software Engineer,PhD,11-03-2016,8.9 yrs,Contract,93246,4,No,Divorced,Remote,99,16,8,9
+EMP0286,Jason Thomas,43,Other,New York,Sales,Operations Manager,PhD,31-08-2017,7.4 yrs,Contract,52369,4,Yes,Divorced,On-site,34,9,9,2
+EMP0287,Janet Jimenez,30,Male,New York,Sales,Operations Manager,PhD,13-02-2023,1.3 yrs,Part-time,97860,4,Yes,Married,Hybrid,57,30,10,7
+EMP0288,Charles Rice,55,Other,Tokyo,Sales,Sales Associate,Masters,04-06-2019,5.7 yrs,Contract,80512,2,No,Married,Hybrid,89,27,1,9
+EMP0289,Anna Odonnell,22,Other,Toronto,IT,Marketing Executive,Bachelors,11-01-2024,1.4 yrs,Part-time,63620,4,No,Married,Hybrid,43,30,3,1
+EMP0290,Julie Nelson,30,Male,New York,IT,Finance Analyst,Diploma,18-06-2016,8.5 yrs,Part-time,36119,5,Yes,Single,Remote,46,15,5,1
+EMP0291,Joshua Barber,51,Other,Mumbai,HR,Product Manager,Diploma,14-07-2022,3.1 yrs,Contract,59569,1,No,Married,On-site,47,18,4,9
+EMP0292,Cory Campos,38,Other,Mumbai,Operations,Product Manager,PhD,03-07-2018,7.1 yrs,Contract,72625,5,No,Married,On-site,80,14,8,9
+EMP0293,Pamela Navarro,38,Female,Tokyo,IT,Finance Analyst,Bachelors,04-02-2024,Fresher,Part-time,145615,4,Yes,Married,Remote,64,12,2,5
+EMP0294,Krista Mills,45,Other,Toronto,IT,Operations Manager,PhD,10-05-2021,4.0 yrs,Part-time,116374,3,Yes,Divorced,Remote,61,3,4,3
+EMP0295,Ashley Ferrell,60,Female,Toronto,Operations,Product Manager,Diploma,29-04-2019,5.6 yrs,Contract,45289,5,No,Divorced,On-site,67,10,7,10
+EMP0296,Jeffery Arellano DVM,25,Other,London,Marketing,Finance Analyst,Masters,08-07-2019,5.4 yrs,Part-time,66474,1,Yes,Single,Remote,65,2,2,9
+EMP0297,Dr. Brittany Allen DDS,46,Male,Mumbai,Marketing,Software Engineer,Diploma,07-10-2024,Fresher,Full-time,47847,2,Yes,Single,On-site,17,22,7,4
+EMP0298,Mrs. Brianna Lane PhD,38,Other,Mumbai,IT,IT Support,Masters,17-03-2021,4.2 yrs,Full-time,74853,3,No,Single,Hybrid,23,7,5,1
+EMP0299,Miranda Evans,32,Other,London,Marketing,Product Manager,Masters,02-10-2023,2.2 yrs,Contract,66698,5,No,Married,On-site,13,26,5,2
+EMP0300,Jesus Chavez,42,Female,Sydney,IT,Finance Analyst,Masters,04-09-2017,7.6 yrs,Full-time,52719,3,No,Single,On-site,68,7,1,7
+EMP0301,Rebecca Guzman,56,Other,Sydney,Sales,Finance Analyst,Diploma,23-06-2020,4.2 yrs,Contract,46380,5,Yes,Married,On-site,10,5,1,9
+EMP0302,Alyssa Martin,31,Male,Tokyo,Marketing,Sales Associate,Masters,18-04-2025,Fresher,Full-time,69787,5,Yes,Divorced,On-site,52,26,5,2
+EMP0303,Meghan Flores,32,Other,Sydney,Marketing,Data Analyst,PhD,20-05-2020,5.1 yrs,Contract,148699,4,Yes,Married,Hybrid,40,24,2,1
+EMP0304,Ashley Brooks,29,Male,New York,Operations,Sales Associate,PhD,27-09-2019,6.1 yrs,Contract,104477,5,Yes,Married,Hybrid,98,25,10,10
+EMP0305,Jennifer Larsen,23,Female,New York,Operations,IT Support,PhD,07-03-2016,9.3 yrs,Contract,66880,4,No,Single,Remote,17,9,3,7
+EMP0306,Eric Lopez,29,Female,Mumbai,Marketing,Business Consultant,Diploma,28-02-2020,4.9 yrs,Part-time,122785,1,No,Married,On-site,84,23,2,10
+EMP0307,Christopher Hall,23,Female,Mumbai,Marketing,Product Manager,Masters,27-01-2017,8.6 yrs,Contract,88137,2,Yes,Divorced,Remote,25,14,4,3
+EMP0308,Sharon Miranda,28,Male,Tokyo,Operations,Finance Analyst,PhD,09-09-2021,3.2 yrs,Full-time,61815,4,No,Single,On-site,43,10,6,1
+EMP0309,Danielle Edwards,49,Female,Tokyo,Operations,Finance Analyst,Diploma,31-03-2019,6.4 yrs,Part-time,104899,2,Yes,Divorced,On-site,51,16,8,10
+EMP0310,Rebecca Rodgers,32,Other,Toronto,Marketing,Product Manager,PhD,04-09-2020,5.4 yrs,Part-time,73038,3,No,Single,Remote,91,15,2,7
+EMP0311,Edwin Jones,29,Female,Sydney,Operations,Business Consultant,Masters,04-03-2023,1.4 yrs,Part-time,90154,5,Yes,Married,Hybrid,96,23,1,3
+EMP0312,Robin Patrick,22,Other,Tokyo,HR,Finance Analyst,Bachelors,20-11-2023,2.1 yrs,Part-time,138481,5,No,Married,On-site,85,4,10,1
+EMP0313,Christopher Davis,41,Female,Sydney,Sales,Marketing Executive,PhD,03-10-2025,Fresher,Part-time,78788,5,No,Single,Hybrid,66,15,5,4
+EMP0314,Jennifer Scott,53,Other,Berlin,IT,Operations Manager,Diploma,07-05-2025,Fresher,Contract,30745,5,Yes,Divorced,On-site,68,19,3,4
+EMP0315,Misty Miller,49,Female,Sydney,HR,Finance Analyst,Masters,28-01-2016,8.6 yrs,Full-time,104164,5,No,Divorced,Hybrid,48,14,3,1
+EMP0316,Eric Hanson,38,Other,Toronto,IT,HR Manager,Bachelors,01-05-2021,3.2 yrs,Full-time,85621,2,No,Divorced,On-site,90,13,9,9
+EMP0317,Tiffany White MD,39,Male,Sydney,Operations,IT Support,Bachelors,01-01-2024,1.5 yrs,Full-time,106431,4,Yes,Married,Remote,76,24,4,4
+EMP0318,Nancy Mclean,39,Male,Mumbai,Sales,IT Support,Masters,22-06-2016,8.1 yrs,Part-time,47726,4,Yes,Married,Hybrid,15,16,5,1
+EMP0319,Matthew Fuller,35,Female,Sydney,IT,Software Engineer,Bachelors,25-10-2017,7.7 yrs,Full-time,139702,3,Yes,Single,On-site,86,28,8,3
+EMP0320,Kelly Montgomery,35,Other,Berlin,IT,Business Consultant,Masters,05-09-2016,8.3 yrs,Full-time,114535,2,Yes,Single,On-site,88,9,10,7
+EMP0321,Melissa Lopez,34,Other,Mumbai,HR,Operations Manager,Bachelors,21-12-2023,1.2 yrs,Contract,32831,1,Yes,Married,Hybrid,42,9,3,5
+EMP0322,Jodi Scott,55,Other,Toronto,IT,Software Engineer,PhD,27-04-2020,4.9 yrs,Part-time,65226,1,Yes,Married,Hybrid,40,1,2,10
+EMP0323,Mark Smith,57,Male,Tokyo,Operations,HR Manager,Diploma,14-08-2024,Fresher,Full-time,114489,3,Yes,Divorced,Hybrid,81,30,10,2
+EMP0324,Johnathan May,48,Other,Singapore,Finance,Software Engineer,Bachelors,21-01-2019,6.1 yrs,Part-time,64669,2,Yes,Divorced,Remote,61,14,4,1
+EMP0325,Angela Zimmerman,56,Other,Mumbai,IT,HR Manager,Masters,10-01-2023,1.4 yrs,Part-time,92187,4,No,Married,On-site,63,20,8,2
+EMP0326,Kelsey Brown,57,Male,Singapore,Finance,Finance Analyst,Bachelors,26-07-2019,6.8 yrs,Full-time,62164,1,Yes,Divorced,On-site,73,28,3,4
+EMP0327,Sheryl Jacobson,36,Female,Mumbai,Operations,Data Analyst,Masters,02-04-2022,2.6 yrs,Part-time,63133,1,Yes,Single,Hybrid,83,12,7,5
+EMP0328,Sarah Bell,50,Male,Singapore,Marketing,Finance Analyst,Bachelors,26-08-2019,6.1 yrs,Full-time,54765,5,No,Married,Hybrid,77,5,6,8
+EMP0329,Linda Palmer,52,Male,New York,Marketing,Data Analyst,Masters,01-01-2017,8.3 yrs,Contract,56567,5,No,Married,On-site,53,1,8,7
+EMP0330,Lisa Barnes,58,Other,Sydney,Finance,Sales Associate,Bachelors,13-08-2021,4.2 yrs,Full-time,101383,3,No,Single,On-site,84,19,7,2
+EMP0331,Michael Carpenter,43,Male,Mumbai,HR,Data Analyst,Bachelors,31-01-2018,7.6 yrs,Part-time,82424,1,No,Married,Remote,89,18,10,4
+EMP0332,Sarah Copeland,34,Female,Singapore,HR,Software Engineer,Diploma,25-04-2022,2.3 yrs,Part-time,55991,4,No,Married,On-site,63,17,3,3
+EMP0333,Michelle Costa,44,Female,Sydney,Sales,Sales Associate,Masters,22-01-2016,8.5 yrs,Part-time,119777,1,No,Married,Hybrid,32,22,10,4
+EMP0334,Danny Wiggins,30,Male,Tokyo,IT,Operations Manager,Diploma,20-05-2018,6.9 yrs,Part-time,135349,1,Yes,Single,On-site,11,1,3,10
+EMP0335,Andrea Rodgers,35,Female,Sydney,Finance,Marketing Executive,Diploma,19-03-2019,5.8 yrs,Full-time,104597,2,No,Married,Hybrid,50,9,6,4
+EMP0336,Daniel Ramirez,48,Male,Mumbai,Finance,IT Support,Masters,29-03-2024,1.7 yrs,Full-time,96830,5,Yes,Single,Hybrid,75,4,2,8
+EMP0337,Mr. Charles Taylor II,24,Female,Toronto,Finance,HR Manager,PhD,20-08-2017,8.5 yrs,Part-time,100907,4,Yes,Divorced,On-site,12,18,1,9
+EMP0338,Jay Welch,47,Female,Toronto,Sales,IT Support,PhD,03-05-2022,2.5 yrs,Part-time,35122,2,No,Married,Hybrid,29,2,7,10
+EMP0339,Lisa Foster,35,Other,New York,HR,Business Consultant,Masters,30-11-2016,9.7 yrs,Part-time,57714,3,Yes,Married,On-site,24,22,7,5
+EMP0340,Amanda Taylor,32,Male,Mumbai,Finance,Business Consultant,Diploma,09-03-2024,1.8 yrs,Contract,81811,5,No,Divorced,Remote,28,11,4,10
+EMP0341,Leslie Stewart,47,Male,Berlin,Finance,Software Engineer,Masters,26-01-2020,5.0 yrs,Full-time,132846,2,No,Divorced,On-site,44,16,8,1
+EMP0342,Vincent Stevens,50,Male,London,Operations,Sales Associate,Diploma,10-01-2023,2.9 yrs,Full-time,101820,2,No,Single,Hybrid,58,27,1,4
+EMP0343,Christine Fernandez,47,Female,Tokyo,Operations,Data Analyst,Masters,10-02-2020,4.1 yrs,Part-time,95642,4,No,Married,On-site,59,6,1,9
+EMP0344,Pamela Freeman,33,Male,Singapore,HR,Data Analyst,Masters,19-08-2022,2.9 yrs,Part-time,130731,5,Yes,Married,Remote,60,7,9,2
+EMP0345,Jeremy Alvarez,31,Male,Mumbai,Sales,Data Analyst,Masters,14-03-2017,8.0 yrs,Contract,38188,2,No,Divorced,Remote,56,12,9,3
+EMP0346,Taylor Johnson,23,Female,Toronto,IT,Operations Manager,Diploma,02-03-2023,1.6 yrs,Part-time,139038,1,Yes,Single,On-site,90,1,1,7
+EMP0347,Mark Williams,44,Male,Mumbai,Finance,Business Consultant,Masters,29-11-2015,10.4 yrs,Contract,91839,3,Yes,Single,Remote,37,8,2,6
+EMP0348,Jeffrey Spencer,41,Male,Berlin,Sales,Software Engineer,Bachelors,18-07-2025,Fresher,Part-time,117046,3,No,Single,On-site,65,17,6,2
+EMP0349,Carolyn Mason,36,Other,Tokyo,Finance,HR Manager,Masters,17-08-2019,6.3 yrs,Full-time,49466,5,Yes,Single,Remote,12,7,3,4
+EMP0350,Jason Espinoza,36,Female,London,Operations,Product Manager,Diploma,30-06-2017,8.6 yrs,Full-time,107721,1,Yes,Divorced,On-site,41,27,6,9
+EMP0351,Thomas Jones,33,Female,New York,Marketing,HR Manager,PhD,11-09-2023,1.2 yrs,Full-time,79797,4,No,Married,Remote,99,3,2,1
+EMP0352,Kristin Boyd,57,Male,Tokyo,Sales,IT Support,Bachelors,08-11-2015,10.6 yrs,Full-time,73247,4,No,Single,Hybrid,35,22,9,3
+EMP0353,Lindsey Kane,52,Male,Singapore,Operations,Software Engineer,Masters,26-07-2021,3.2 yrs,Full-time,57733,1,Yes,Married,On-site,21,9,10,1
+EMP0354,Ashley Neal,29,Other,New York,Sales,Finance Analyst,Bachelors,04-11-2024,1.0 yrs,Part-time,44319,3,Yes,Married,Remote,93,9,8,1
+EMP0355,Toni Moore,49,Other,Tokyo,HR,Business Consultant,PhD,13-04-2017,8.4 yrs,Contract,37679,4,Yes,Divorced,Remote,58,19,7,3
+EMP0356,Michael Rosario,33,Other,Singapore,IT,Business Consultant,Bachelors,02-06-2016,9.1 yrs,Full-time,30991,3,No,Married,On-site,41,19,3,7
+EMP0357,Corey Smith,35,Male,Sydney,Marketing,Operations Manager,Bachelors,07-08-2025,Fresher,Contract,98814,2,Yes,Divorced,Hybrid,48,6,2,7
+EMP0358,Deanna Everett,28,Female,London,HR,Business Consultant,Masters,05-09-2021,3.1 yrs,Full-time,59186,3,No,Married,Remote,84,12,5,10
+EMP0359,Lauren Manning,28,Female,New York,Finance,Marketing Executive,Bachelors,27-04-2025,Fresher,Contract,74464,4,No,Married,Remote,97,18,2,10
+EMP0360,Laura Cole,55,Male,Toronto,Marketing,Operations Manager,Bachelors,05-02-2019,5.5 yrs,Contract,137400,4,No,Divorced,On-site,26,3,4,9
+EMP0361,Carrie Gross,25,Male,Berlin,IT,Sales Associate,PhD,19-01-2017,8.2 yrs,Part-time,66851,3,No,Single,On-site,20,23,6,1
+EMP0362,Aaron Reed,53,Female,Singapore,Finance,IT Support,Masters,14-04-2019,5.2 yrs,Part-time,93852,4,Yes,Married,On-site,17,6,3,5
+EMP0363,Mary Jordan,56,Male,New York,Sales,Operations Manager,Bachelors,04-05-2022,2.2 yrs,Part-time,79455,1,No,Married,On-site,36,10,4,6
+EMP0364,Nicole Hughes,59,Female,Mumbai,HR,Sales Associate,PhD,18-03-2017,8.8 yrs,Full-time,116679,3,Yes,Divorced,Hybrid,48,0,6,7
+EMP0365,Ryan Smith,40,Female,Berlin,HR,Business Consultant,PhD,20-10-2022,3.2 yrs,Part-time,116578,2,No,Divorced,On-site,10,8,4,5
+EMP0366,Jacob Lamb,30,Other,Tokyo,Operations,Business Consultant,Masters,10-02-2024,1.0 yrs,Full-time,73738,4,No,Divorced,Hybrid,64,3,7,5
+EMP0367,Martha Pierce,44,Female,Berlin,HR,Marketing Executive,Masters,22-10-2021,3.5 yrs,Part-time,34052,2,No,Divorced,On-site,40,28,6,4
+EMP0368,Andre Cook,43,Other,London,Finance,HR Manager,PhD,30-08-2025,Fresher,Part-time,135166,4,No,Single,Remote,32,21,2,6
+EMP0369,Christina Brown,48,Female,London,Marketing,Product Manager,Masters,18-12-2021,4.8 yrs,Part-time,91286,1,Yes,Single,On-site,46,25,7,8
+EMP0370,Michelle Tran,49,Female,Singapore,IT,Sales Associate,Diploma,07-06-2021,4.6 yrs,Part-time,34995,1,No,Married,Remote,18,2,2,8
+EMP0371,Mark Hall,43,Female,New York,IT,Finance Analyst,PhD,12-05-2018,6.1 yrs,Part-time,99317,3,Yes,Married,Hybrid,85,17,6,2
+EMP0372,Jeffrey Adkins,54,Other,Sydney,Finance,HR Manager,Masters,15-07-2025,Fresher,Contract,112992,4,Yes,Divorced,Remote,47,27,3,3
+EMP0373,Amanda Anderson,49,Female,Toronto,Operations,Finance Analyst,Diploma,31-12-2018,7.2 yrs,Contract,126846,4,Yes,Married,On-site,24,15,6,9
+EMP0374,Rebecca Black,59,Male,Singapore,Marketing,HR Manager,PhD,20-10-2018,7.9 yrs,Part-time,125478,5,No,Divorced,Hybrid,12,5,4,4
+EMP0375,Natasha Lopez,23,Other,Mumbai,Sales,Marketing Executive,PhD,30-10-2020,4.8 yrs,Full-time,56893,4,No,Single,Remote,78,12,10,5
+EMP0376,Michelle Lynch,48,Male,New York,Marketing,Data Analyst,Bachelors,18-01-2018,7.1 yrs,Contract,86076,3,Yes,Divorced,On-site,74,4,10,1
+EMP0377,Thomas Jones,22,Male,London,Finance,Operations Manager,Masters,25-02-2021,3.3 yrs,Part-time,83828,2,No,Married,Hybrid,19,0,10,2
+EMP0378,Stacey Ferguson,37,Female,Mumbai,HR,Finance Analyst,PhD,26-01-2019,6.6 yrs,Part-time,47977,1,No,Divorced,Remote,36,4,5,1
+EMP0379,Eric Gates,36,Male,New York,Finance,Finance Analyst,Masters,27-12-2024,Fresher,Part-time,42072,4,Yes,Single,On-site,51,6,6,4
+EMP0380,Elizabeth Francis,37,Other,Sydney,Finance,Product Manager,PhD,12-01-2017,8.5 yrs,Part-time,49600,3,Yes,Married,On-site,19,20,8,4
+EMP0381,Victoria Nichols,31,Other,Singapore,HR,Data Analyst,Bachelors,12-08-2021,3.6 yrs,Contract,98440,1,Yes,Divorced,On-site,31,24,5,7
+EMP0382,Jennifer Zhang,56,Female,London,Finance,Software Engineer,PhD,11-01-2019,5.6 yrs,Part-time,101619,2,No,Married,Remote,41,20,10,3
+EMP0383,Danielle Brown,35,Male,Toronto,Operations,Sales Associate,PhD,15-12-2020,4.5 yrs,Contract,91165,2,No,Divorced,On-site,33,11,7,2
+EMP0384,Kevin Roberts,49,Male,Tokyo,Marketing,IT Support,PhD,06-03-2018,7.3 yrs,Part-time,39452,1,Yes,Married,On-site,63,26,3,8
+EMP0385,Robert Hernandez,29,Female,Toronto,Operations,IT Support,Bachelors,20-07-2017,8.9 yrs,Full-time,93544,2,Yes,Single,On-site,34,4,2,7
+EMP0386,Hannah Thompson,30,Male,Singapore,Finance,Data Analyst,PhD,04-09-2024,1.4 yrs,Contract,71272,4,Yes,Married,Remote,11,17,4,8
+EMP0387,Christina Lin,32,Other,Mumbai,Marketing,Marketing Executive,Masters,29-01-2019,5.1 yrs,Contract,50367,3,No,Married,Hybrid,75,0,1,9
+EMP0388,Cassidy Olson,52,Other,Toronto,HR,Software Engineer,Bachelors,20-05-2017,8.2 yrs,Full-time,143226,4,No,Single,On-site,81,6,4,6
+EMP0389,Nicholas Mendoza,22,Other,Singapore,Marketing,Product Manager,Bachelors,13-05-2016,8.9 yrs,Part-time,139842,4,No,Single,Remote,50,4,10,7
+EMP0390,Savannah Alexander,31,Male,Toronto,Finance,HR Manager,Diploma,30-08-2024,1.5 yrs,Full-time,114308,4,No,Single,Hybrid,15,2,5,9
+EMP0391,Tina King,46,Male,Tokyo,Operations,Marketing Executive,Diploma,08-07-2025,Fresher,Part-time,112751,4,No,Divorced,Hybrid,17,19,3,1
+EMP0392,Danny Anthony,50,Male,New York,HR,Marketing Executive,Diploma,23-04-2025,Fresher,Contract,138890,1,No,Single,Remote,35,9,2,6
+EMP0393,Keith Rosales,47,Female,Singapore,Finance,Business Consultant,Bachelors,08-10-2021,4.5 yrs,Full-time,92680,4,Yes,Married,Remote,98,9,9,6
+EMP0394,Linda Castro,32,Other,Mumbai,Sales,Operations Manager,Bachelors,18-04-2018,6.7 yrs,Contract,82380,2,Yes,Single,Hybrid,36,29,8,9
+EMP0395,Andrew Ellis,43,Other,Berlin,HR,Data Analyst,Masters,17-07-2017,8.8 yrs,Part-time,43111,3,No,Single,On-site,41,4,7,10
+EMP0396,Joe Webster,41,Female,Singapore,Operations,IT Support,PhD,20-09-2017,8.9 yrs,Part-time,81443,2,No,Single,On-site,62,11,1,1
+EMP0397,Christina Mcdaniel,50,Other,Berlin,Finance,HR Manager,Diploma,26-07-2023,1.8 yrs,Part-time,127559,5,No,Divorced,On-site,49,14,1,4
+EMP0398,Kevin Higgins,47,Male,Tokyo,Finance,Data Analyst,Masters,14-10-2021,3.5 yrs,Full-time,69902,2,No,Single,Hybrid,81,8,4,9
+EMP0399,Maurice Hernandez,36,Female,Berlin,Marketing,Operations Manager,Bachelors,07-03-2020,5.0 yrs,Contract,99594,2,Yes,Single,On-site,100,9,9,3
+EMP0400,Corey Duarte,40,Other,London,HR,Operations Manager,Bachelors,13-06-2021,4.8 yrs,Part-time,49499,5,Yes,Divorced,On-site,60,23,3,5
+EMP0401,Melanie Morris,56,Male,Berlin,IT,Finance Analyst,PhD,10-12-2018,6.9 yrs,Full-time,134734,1,Yes,Single,On-site,81,9,7,9
+EMP0402,Stephanie Hancock,37,Male,Mumbai,Marketing,Marketing Executive,Bachelors,04-07-2020,5.7 yrs,Part-time,74981,2,No,Single,Hybrid,94,11,3,6
+EMP0403,Angela Hall,58,Female,Tokyo,Finance,Marketing Executive,Masters,22-10-2015,9.1 yrs,Part-time,43916,1,Yes,Divorced,Remote,13,17,3,6
+EMP0404,Jean Weeks,50,Male,Toronto,HR,Software Engineer,Bachelors,05-11-2024,Fresher,Part-time,90106,3,Yes,Divorced,Hybrid,37,30,7,8
+EMP0405,Melissa Mendoza,26,Other,Sydney,Marketing,Product Manager,Bachelors,05-05-2025,Fresher,Full-time,90398,5,No,Divorced,On-site,86,6,5,10
+EMP0406,Tina Rose,41,Male,Berlin,Marketing,HR Manager,Bachelors,01-02-2020,5.3 yrs,Full-time,40234,1,No,Divorced,Remote,40,18,4,2
+EMP0407,Roger Daniels,50,Other,Toronto,HR,Marketing Executive,Diploma,15-06-2016,8.7 yrs,Full-time,68906,1,No,Single,Remote,10,3,4,7
+EMP0408,Stacie Ramirez,35,Male,Sydney,Marketing,Business Consultant,PhD,05-10-2017,8.8 yrs,Contract,96096,1,Yes,Married,Remote,39,20,3,2
+EMP0409,Terry Nguyen,43,Female,Tokyo,IT,HR Manager,Masters,12-08-2016,8.5 yrs,Contract,38189,2,Yes,Divorced,Hybrid,96,18,10,4
+EMP0410,Michael Miles,39,Other,Berlin,HR,Marketing Executive,Diploma,14-10-2023,1.9 yrs,Full-time,49789,5,No,Married,On-site,98,29,6,5
+EMP0411,Andrew Fisher,30,Male,Toronto,HR,Sales Associate,Bachelors,22-04-2017,8.2 yrs,Part-time,106345,2,No,Married,On-site,73,28,1,2
+EMP0412,Patricia Mayo,33,Female,Mumbai,Marketing,Sales Associate,PhD,08-03-2018,6.3 yrs,Full-time,125686,4,No,Divorced,On-site,49,29,2,2
+EMP0413,Stephanie Ruiz,51,Female,London,Finance,IT Support,Diploma,29-04-2017,7.8 yrs,Full-time,130872,4,Yes,Married,Remote,61,18,6,6
+EMP0414,Kaylee Freeman,46,Other,Mumbai,HR,Sales Associate,PhD,21-01-2016,8.3 yrs,Full-time,83163,4,Yes,Divorced,Hybrid,98,14,4,3
+EMP0415,Dean Wolf,30,Female,Toronto,Sales,IT Support,Bachelors,01-07-2020,4.5 yrs,Contract,54428,2,No,Divorced,Remote,26,18,2,7
+EMP0416,Meghan Hunter MD,31,Male,Singapore,Operations,Business Consultant,Diploma,26-10-2024,1.3 yrs,Part-time,59101,3,Yes,Married,On-site,16,14,3,7
+EMP0417,Erica Dudley,37,Female,Mumbai,HR,Marketing Executive,Masters,14-06-2022,3.3 yrs,Contract,54188,3,Yes,Divorced,Remote,43,21,5,7
+EMP0418,Daniel Richardson,45,Female,Tokyo,Sales,HR Manager,Diploma,31-10-2019,5.7 yrs,Full-time,72580,4,No,Divorced,On-site,12,29,2,3
+EMP0419,Zachary Romero,43,Male,Tokyo,Finance,HR Manager,PhD,27-06-2018,7.7 yrs,Part-time,42546,2,No,Divorced,Hybrid,30,30,8,4
+EMP0420,Steven Higgins,43,Male,London,Operations,Sales Associate,Masters,30-08-2025,Fresher,Full-time,106519,5,Yes,Married,Remote,92,21,4,2
+EMP0421,Victoria Carroll,51,Other,Tokyo,IT,Sales Associate,Bachelors,31-12-2022,3.3 yrs,Full-time,75652,4,Yes,Married,Remote,18,23,8,7
+EMP0422,Tiffany Bowen,36,Male,Tokyo,IT,Product Manager,Masters,22-05-2023,1.3 yrs,Part-time,100178,5,No,Single,Hybrid,28,15,6,5
+EMP0423,Sarah Hanson,57,Female,New York,Sales,Finance Analyst,Masters,15-03-2016,9.5 yrs,Full-time,87095,1,Yes,Married,Hybrid,91,10,5,5
+EMP0424,Brooke Black,41,Female,Mumbai,IT,Business Consultant,Diploma,31-10-2024,1.1 yrs,Part-time,142971,4,No,Single,Remote,18,15,1,3
+EMP0425,Timothy Ruiz,39,Male,Toronto,IT,Operations Manager,Diploma,11-04-2021,3.5 yrs,Part-time,135331,3,Yes,Single,Remote,86,14,2,2
+EMP0426,Timothy Powers,23,Female,Sydney,HR,Finance Analyst,PhD,30-04-2021,4.3 yrs,Contract,106151,4,No,Single,On-site,33,17,4,7
+EMP0427,David Owens,55,Female,London,Operations,Marketing Executive,PhD,01-09-2023,1.6 yrs,Contract,149959,3,Yes,Married,On-site,49,25,8,2
+EMP0428,Kelsey Flores,25,Female,Sydney,Operations,Business Consultant,Masters,12-01-2024,1.2 yrs,Contract,148131,2,No,Single,Hybrid,54,25,5,6
+EMP0429,Tyrone Thomas,25,Male,Singapore,Operations,Sales Associate,Diploma,13-02-2025,1.0 yrs,Part-time,109068,2,No,Single,On-site,84,9,3,8
+EMP0430,Eddie Rodriguez,60,Female,Mumbai,Operations,Marketing Executive,Diploma,05-08-2021,3.7 yrs,Full-time,114837,4,Yes,Married,Hybrid,34,19,7,10
+EMP0431,Matthew Campbell,44,Female,Toronto,Finance,Operations Manager,Diploma,23-08-2017,8.0 yrs,Part-time,108055,2,Yes,Single,Remote,42,16,1,3
+EMP0432,Shane Atkinson,53,Female,Singapore,Marketing,HR Manager,Diploma,19-03-2017,7.3 yrs,Full-time,120912,5,Yes,Married,Remote,12,7,1,9
+EMP0433,Autumn Barnes,26,Female,New York,HR,Sales Associate,PhD,23-08-2025,Fresher,Full-time,120938,1,No,Divorced,Remote,74,14,8,7
+EMP0434,Nicole Gonzalez,40,Other,Mumbai,Finance,Finance Analyst,PhD,14-12-2018,6.8 yrs,Contract,39077,2,No,Single,Hybrid,43,9,3,4
+EMP0435,Andrew Reyes,48,Other,Berlin,HR,Sales Associate,Masters,14-11-2016,8.9 yrs,Full-time,100796,3,Yes,Single,Remote,52,3,1,7
+EMP0436,Roy Herrera,29,Male,Singapore,Marketing,Operations Manager,PhD,20-03-2021,4.2 yrs,Full-time,147728,2,No,Single,Remote,68,16,2,1
+EMP0437,Evan Garcia,40,Female,Sydney,Finance,Product Manager,Masters,25-07-2020,4.7 yrs,Part-time,140584,1,No,Divorced,On-site,72,20,9,5
+EMP0438,Haley Gutierrez,22,Female,Berlin,Finance,Product Manager,PhD,12-12-2016,9.5 yrs,Part-time,108000,5,Yes,Single,On-site,100,27,4,1
+EMP0439,Amy Fuller,41,Male,New York,Finance,Product Manager,Diploma,12-04-2021,4.3 yrs,Part-time,120514,4,Yes,Single,Hybrid,38,22,4,1
+EMP0440,Dr. Jason Gonzales Jr.,34,Other,Tokyo,Operations,Business Consultant,Diploma,29-12-2020,5.7 yrs,Full-time,135453,1,No,Married,Hybrid,22,29,1,4
+EMP0441,Sandra Brady,58,Female,Singapore,Finance,Finance Analyst,PhD,26-03-2016,8.5 yrs,Part-time,130519,2,No,Single,Remote,53,28,5,9
+EMP0442,Tracy Mcguire,30,Female,Singapore,IT,Marketing Executive,Bachelors,06-11-2020,4.1 yrs,Full-time,68030,2,Yes,Married,Hybrid,68,7,5,2
+EMP0443,Jennifer Collins,27,Male,Sydney,Operations,HR Manager,Bachelors,21-12-2024,Fresher,Part-time,138813,3,Yes,Married,Remote,74,13,7,7
+EMP0444,Jordan Frye,37,Other,Toronto,HR,IT Support,Bachelors,11-11-2018,7.5 yrs,Part-time,67051,3,Yes,Single,On-site,46,11,8,4
+EMP0445,Dr. Kimberly Myers,28,Male,Sydney,HR,Software Engineer,Bachelors,06-07-2025,Fresher,Contract,45043,2,Yes,Divorced,Hybrid,13,21,4,9
+EMP0446,Nicole Todd,58,Female,Singapore,Finance,Operations Manager,Diploma,03-01-2021,4.8 yrs,Contract,49552,3,No,Single,On-site,81,6,2,8
+EMP0447,Kristie Smith,25,Other,Mumbai,IT,Marketing Executive,PhD,28-12-2023,2.5 yrs,Contract,149326,5,Yes,Married,Hybrid,94,22,7,6
+EMP0448,Tracy Jones,24,Female,Tokyo,Operations,Data Analyst,Masters,09-05-2018,6.6 yrs,Part-time,90358,2,Yes,Single,Hybrid,38,15,10,6
+EMP0449,Steven Williams,32,Female,Berlin,HR,Product Manager,Diploma,17-07-2025,Fresher,Contract,121267,1,No,Divorced,Remote,35,5,4,6
+EMP0450,Jessica Ramirez,30,Female,Toronto,Sales,Operations Manager,Masters,10-05-2022,2.6 yrs,Full-time,31264,3,No,Single,Hybrid,65,2,8,9
+EMP0451,Emily Montgomery,37,Male,Berlin,Operations,HR Manager,PhD,14-04-2018,6.8 yrs,Full-time,68562,2,No,Divorced,Remote,20,1,10,1
+EMP0452,Matthew Allen,44,Male,Toronto,Sales,Sales Associate,PhD,02-09-2016,8.1 yrs,Contract,30333,4,Yes,Divorced,On-site,17,9,9,3
+EMP0453,David Green,40,Male,Mumbai,HR,IT Support,Masters,14-10-2021,3.1 yrs,Contract,103800,1,No,Married,Remote,19,17,1,2
+EMP0454,Jill Newman,41,Other,Singapore,Sales,Software Engineer,Diploma,06-11-2022,3.7 yrs,Contract,127254,2,No,Single,Remote,10,9,5,4
+EMP0455,Jonathan Allen,56,Other,Sydney,Marketing,Sales Associate,Bachelors,23-06-2018,6.4 yrs,Contract,84165,1,No,Married,On-site,58,10,10,7
+EMP0456,Angela Hill,27,Other,Toronto,Operations,Software Engineer,Masters,26-12-2023,1.6 yrs,Part-time,142164,2,Yes,Single,Hybrid,30,5,8,3
+EMP0457,Sarah Burns,56,Other,Singapore,Sales,Marketing Executive,Bachelors,09-02-2024,1.7 yrs,Full-time,140821,5,No,Single,Hybrid,16,11,5,6
+EMP0458,Laura Mcdaniel,48,Other,Toronto,Finance,Operations Manager,Diploma,24-10-2017,8.4 yrs,Part-time,83113,4,No,Single,Hybrid,56,26,10,6
+EMP0459,Wendy Andersen,56,Male,Berlin,Finance,Software Engineer,Masters,09-01-2019,7.0 yrs,Part-time,55589,5,No,Single,On-site,99,29,8,3
+EMP0460,Kara Thornton,37,Other,Mumbai,Sales,Data Analyst,PhD,01-06-2019,5.1 yrs,Full-time,86123,1,No,Divorced,Hybrid,65,24,4,10
+EMP0461,Michael Bishop,44,Other,Sydney,IT,Sales Associate,PhD,17-05-2016,9.1 yrs,Part-time,72781,3,Yes,Married,Hybrid,44,27,6,6
+EMP0462,Eric Green,46,Female,Toronto,IT,Sales Associate,PhD,15-10-2020,4.3 yrs,Full-time,130319,4,Yes,Divorced,Hybrid,14,20,2,3
+EMP0463,Michael Harris,26,Female,Mumbai,Finance,IT Support,Bachelors,15-12-2024,1.3 yrs,Part-time,68283,4,Yes,Single,On-site,83,8,3,8
+EMP0464,Caroline Hernandez,22,Other,Mumbai,Operations,Software Engineer,Bachelors,29-09-2022,2.1 yrs,Part-time,144460,1,No,Divorced,Remote,92,4,7,9
+EMP0465,Blake Terry,54,Female,Toronto,Marketing,Operations Manager,Masters,20-01-2021,3.1 yrs,Part-time,50339,1,No,Divorced,Remote,97,19,10,4
+EMP0466,Brittney Choi,40,Female,Toronto,HR,Operations Manager,Diploma,26-03-2016,8.7 yrs,Contract,92537,1,Yes,Single,Remote,65,12,3,8
+EMP0467,Stephen James,26,Male,Sydney,HR,IT Support,Bachelors,14-07-2021,3.9 yrs,Contract,37948,3,Yes,Married,Remote,11,29,10,3
+EMP0468,Emily Hubbard,35,Female,Singapore,Operations,Finance Analyst,Bachelors,30-03-2016,9.0 yrs,Contract,130191,3,No,Single,Remote,16,14,7,1
+EMP0469,Cody Franklin,50,Other,Singapore,Marketing,Software Engineer,Masters,09-04-2025,Fresher,Part-time,130685,2,No,Divorced,Remote,97,5,8,5
+EMP0470,Robin Deleon,56,Male,New York,Operations,Business Consultant,Masters,31-12-2016,9.3 yrs,Part-time,144560,3,Yes,Divorced,On-site,69,27,3,6
+EMP0471,Nicholas Baker,54,Other,Mumbai,Finance,Sales Associate,Diploma,05-04-2022,2.3 yrs,Full-time,48779,4,No,Single,Hybrid,54,23,5,7
+EMP0472,Lynn Brown,38,Female,New York,Operations,IT Support,Bachelors,23-10-2021,4.8 yrs,Part-time,122071,3,No,Married,Hybrid,81,23,4,4
+EMP0473,Michael Rowland,32,Female,Mumbai,Sales,Marketing Executive,PhD,02-08-2023,2.5 yrs,Contract,62238,4,Yes,Married,On-site,11,15,4,2
+EMP0474,Ann Swanson,23,Other,Mumbai,Operations,Data Analyst,Bachelors,03-01-2019,5.1 yrs,Full-time,93364,5,No,Divorced,Hybrid,22,13,7,3
+EMP0475,Alan Perez,25,Male,Toronto,Sales,HR Manager,Masters,04-11-2023,1.2 yrs,Part-time,93365,3,Yes,Single,On-site,12,2,9,4
+EMP0476,Mary Salas,39,Other,London,Finance,IT Support,Bachelors,20-10-2020,4.4 yrs,Part-time,145808,4,Yes,Married,On-site,78,1,8,4
+EMP0477,Oscar Wells,31,Other,Berlin,Finance,HR Manager,Diploma,15-12-2020,4.9 yrs,Full-time,60810,3,Yes,Divorced,Hybrid,85,21,1,5
+EMP0478,Nancy Sutton,60,Male,Sydney,IT,Operations Manager,Bachelors,07-04-2023,1.4 yrs,Part-time,128534,5,No,Single,Hybrid,63,13,5,8
+EMP0479,Phillip Walker,29,Female,Mumbai,Marketing,Software Engineer,Masters,17-06-2022,2.3 yrs,Contract,144003,4,No,Married,On-site,22,6,7,2
+EMP0480,Kevin Hall,32,Other,Toronto,Sales,Sales Associate,Masters,02-05-2025,Fresher,Full-time,113439,2,No,Divorced,Remote,86,17,8,8
+EMP0481,Bryan Wilcox,32,Female,London,Finance,Software Engineer,Diploma,25-11-2023,1.8 yrs,Contract,102591,2,Yes,Married,On-site,57,9,4,8
+EMP0482,Shannon Sanchez,24,Male,Singapore,Sales,Software Engineer,Bachelors,23-12-2023,2.4 yrs,Full-time,44668,1,Yes,Married,Hybrid,32,9,7,10
+EMP0483,Dawn Cole,50,Other,Singapore,Sales,Sales Associate,PhD,26-03-2023,2.5 yrs,Part-time,143276,3,Yes,Married,Remote,78,17,5,4
+EMP0484,Catherine Mclaughlin,54,Other,Toronto,Marketing,Finance Analyst,Diploma,13-11-2018,7.9 yrs,Contract,111819,4,Yes,Married,Remote,18,6,6,3
+EMP0485,Linda Buckley,46,Male,New York,HR,Product Manager,PhD,12-02-2020,4.8 yrs,Contract,83097,2,No,Divorced,Remote,100,0,6,3
+EMP0486,Thomas Norris,27,Male,Mumbai,HR,HR Manager,PhD,11-06-2020,5.8 yrs,Contract,34329,4,No,Single,Hybrid,79,16,8,3
+EMP0487,Beth Flynn,40,Male,Sydney,Marketing,HR Manager,PhD,23-06-2025,Fresher,Full-time,79428,4,No,Divorced,On-site,62,17,4,3
+EMP0488,Richard Howard,33,Male,Sydney,Marketing,Operations Manager,Diploma,24-04-2016,9.5 yrs,Full-time,140225,3,No,Single,On-site,33,23,9,7
+EMP0489,Isaac Flores,48,Female,London,HR,Operations Manager,Masters,10-10-2020,5.7 yrs,Full-time,91368,3,Yes,Single,On-site,73,28,9,8
+EMP0490,Joshua Gregory,47,Male,New York,IT,Data Analyst,PhD,31-03-2016,8.2 yrs,Full-time,87914,5,No,Married,On-site,55,23,10,2
+EMP0491,Austin Ferguson,26,Other,London,Operations,Business Consultant,Masters,16-08-2019,6.4 yrs,Contract,47988,2,No,Single,Remote,20,1,2,2
+EMP0492,Olivia Liu,53,Other,London,Sales,Operations Manager,Masters,18-03-2023,1.2 yrs,Part-time,97911,2,Yes,Single,On-site,82,11,1,10
+EMP0493,Sean Banks,44,Female,Toronto,Marketing,Software Engineer,Masters,04-10-2017,8.5 yrs,Contract,149110,3,No,Divorced,Hybrid,54,19,1,1
+EMP0494,David Chapman,31,Male,London,Finance,Business Consultant,Masters,13-05-2018,7.4 yrs,Part-time,36850,5,No,Married,On-site,82,22,4,8
+EMP0495,Michele Watkins,47,Other,Berlin,IT,Operations Manager,Bachelors,15-11-2016,8.4 yrs,Contract,52447,3,Yes,Divorced,Hybrid,34,13,9,2
+EMP0496,Ms. Alicia Mills MD,42,Male,Berlin,Sales,HR Manager,Masters,23-10-2017,8.9 yrs,Part-time,50400,1,No,Married,On-site,14,9,10,3
+EMP0497,Desiree Weber,56,Other,Tokyo,Marketing,Software Engineer,Masters,11-04-2021,3.5 yrs,Contract,34760,4,Yes,Married,Hybrid,52,30,9,9
+EMP0498,Linda Carter,55,Female,London,Sales,Business Consultant,PhD,29-09-2017,7.9 yrs,Contract,61971,5,No,Married,Remote,38,30,3,4
+EMP0499,Patrick Johnson,46,Female,Berlin,Marketing,Software Engineer,PhD,22-02-2017,8.7 yrs,Full-time,74255,3,No,Single,Hybrid,58,24,1,7
+EMP0500,Jesse Greene,44,Female,Berlin,Finance,Operations Manager,Bachelors,09-07-2021,4.0 yrs,Contract,148526,3,Yes,Divorced,Hybrid,40,22,8,7
